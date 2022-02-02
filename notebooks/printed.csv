@@ -1,0 +1,52 @@
+state,region,price,year,manufacturer,model,condition,cylinders,fuel,odometer,title_status,transmission,drive,size,type,paint_color,State,Region,Division
+AK,anchorage / mat-su,55000,2013.0,ford,f450 super duty,excellent,8 cylinders,diesel,167000.0,clean,automatic,4wd,full-size,truck,white,Alaska,West,Pacific
+AL,auburn,33590,2014.0,gmc,sierra 1500 crew cab slt,good,8 cylinders,gas,57923.0,clean,other,rwd,full-size,pickup,white,Alabama,South,East South Central
+AR,fayetteville,11900,2019.0,toyota,highlander se,good,8 cylinders,other,31367.0,clean,automatic,fwd,full-size,other,white,Arkansas,South,West South Central
+AZ,prescott,6000,2007.0,honda,odyssey ex,good,6 cylinders,gas,122100.0,clean,automatic,fwd,full-size,mini-van,blue,Arizona,West,Mountain
+CA,bakersfield,16990,2018.0,hyundai,accent se sedan 4d,good,6 cylinders,gas,16930.0,clean,other,fwd,full-size,sedan,white,California,West,Pacific
+CO,boulder,33590,2014.0,gmc,sierra 1500 crew cab slt,good,8 cylinders,gas,57923.0,clean,other,4wd,compact,pickup,white,Colorado,West,Mountain
+CT,eastern CT,15500,2004.0,chevrolet,silverado 3500,excellent,8 cylinders,gas,120000.0,clean,automatic,4wd,full-size,truck,grey,Connecticut,Northeast,New England
+DC,"washington, DC",17000,1988.0,alfa-romeo,romeo spider,fair,8 cylinders,gas,47800.0,clean,manual,rwd,full-size,truck,white,District of Columbia,South,South Atlantic
+DE,delaware,6990,2008.0,toyota,highlander,excellent,6 cylinders,gas,217000.0,clean,automatic,4wd,mid-size,SUV,red,Delaware,South,South Atlantic
+FL,florida keys,21000,2014.0,ford,f-150 xlt,excellent,8 cylinders,gas,230223.0,clean,automatic,rwd,full-size,pickup,blue,Florida,South,South Atlantic
+GA,albany,25990,2014.0,gmc,sierra 1500 regular cab,good,6 cylinders,gas,15575.0,clean,other,4wd,full-size,pickup,brown,Georgia,South,South Atlantic
+HI,hawaii,10277,2015.0,nissan,altima,excellent,4 cylinders,gas,74480.0,clean,automatic,fwd,mid-size,sedan,silver,Hawaii,West,Pacific
+IA,ames,2500,1993.0,cadillac,626,excellent,8 cylinders,gas,137000.0,clean,automatic,fwd,full-size,sedan,blue,Iowa,Midwest,West North Central
+ID,boise,33911,2020.0,toyota,sienna le,good,6 cylinders,gas,2893.0,clean,automatic,4wd,full-size,van,red,Idaho,West,Mountain
+IL,bloomington-normal,6999,2011.0,ford,taurus,excellent,8 cylinders,gas,126731.0,clean,automatic,fwd,mid-size,sedan,black,Illinois,Midwest,East North Central
+IN,bloomington,2250,2003.0,pontiac,bonneville sle,excellent,4 cylinders,gas,167000.0,clean,automatic,fwd,compact,sedan,blue,Indiana,Midwest,East North Central
+KS,"kansas city, MO",73559,2020.0,bmw,m4,excellent,6 cylinders,gas,4013.0,clean,automatic,rwd,mid-size,convertible,black,Kansas,Midwest,West North Central
+KY,bowling green,24500,2014.0,chevrolet,silverado 1500,good,8 cylinders,gas,95000.0,rebuilt,automatic,4wd,full-size,truck,red,Kentucky,South,East South Central
+LA,baton rouge,18000,1987.0,ram,amc humvee,excellent,8 cylinders,diesel,9856.0,clean,automatic,4wd,full-size,SUV,white,Louisiana,South,West South Central
+MA,worcester / central MA,1500,2012.0,ford,focus sel,excellent,4 cylinders,gas,61000.0,clean,automatic,fwd,full-size,sedan,red,Massachusetts,Northeast,New England
+MD,annapolis,12500,1980.0,chevrolet,escape,excellent,8 cylinders,gas,44000.0,clean,automatic,rwd,full-size,truck,red,Maryland,South,South Atlantic
+ME,maine,4000,2005.0,chrysler,pt cruiser,excellent,4 cylinders,gas,90000.0,clean,automatic,fwd,sub-compact,hatchback,black,Maine,Northeast,New England
+MI,ann arbor,22568,2014.0,ram,1500 sport 4wd!crew cab,excellent,8 cylinders,gas,133275.0,clean,automatic,4wd,mid-size,truck,green,Michigan,Midwest,East North Central
+MN,bemidji,500,2001.0,dodge,van,good,8 cylinders,gas,62624.0,clean,automatic,rwd,full-size,sedan,white,Minnesota,Midwest,West North Central
+MO,columbia / jeff city,24950,2020.0,dodge,challenger,good,8 cylinders,gas,6278.0,salvage,automatic,rwd,mid-size,coupe,blue,Missouri,Midwest,West North Central
+MS,gulfport / biloxi,3500,2006.0,ram,1500,salvage,6 cylinders,gas,110000.0,salvage,automatic,rwd,full-size,van,red,Mississippi,South,East South Central
+MT,billings,30990,2014.0,toyota,tundra crewmax,excellent,8 cylinders,gas,134089.0,clean,automatic,4wd,full-size,truck,white,Montana,West,Mountain
+NC,greensboro,4900,1989.0,jeep,deville,good,6 cylinders,gas,155000.0,clean,manual,4wd,compact,SUV,blue,North Carolina,South,South Atlantic
+ND,bismarck,49950,2005.0,jeep,INTERNATIONAL WORKSTAR 7400,excellent,6 cylinders,diesel,61717.0,clean,automatic,4wd,full-size,truck,white,North Dakota,Midwest,West North Central
+NE,grand island,4500,2003.0,chrysler,town & country,excellent,6 cylinders,gas,165999.0,clean,automatic,fwd,mid-size,other,custom,Nebraska,Midwest,West North Central
+NH,new hampshire,16500,2004.0,ford,mustang mach1,like new,8 cylinders,gas,41120.0,clean,automatic,rwd,full-size,truck,white,New Hampshire,Northeast,New England
+NJ,central NJ,18995,2018.0,subaru,forester,good,4 cylinders,gas,21297.0,clean,automatic,4wd,sub-compact,convertible,black,New Jersey,Northeast,Middle Atlantic
+NM,albuquerque,4700,2014.0,mitsubishi,mirage,fair,3 cylinders,gas,84000.0,clean,automatic,4wd,compact,offroad,white,New Mexico,West,Mountain
+NV,elko,30988,2017.0,buick,enclave leather,good,8 cylinders,gas,32310.0,clean,other,4wd,full-size,other,black,Nevada,West,Mountain
+NY,hudson valley,1600,2017.0,jeep,wrangler,excellent,6 cylinders,gas,74500.0,clean,manual,4wd,compact,SUV,black,New York,Northeast,Middle Atlantic
+OH,akron / canton,5995,2013.0,ford,focus titanium hatchback,good,6 cylinders,gas,150000.0,clean,automatic,fwd,full-size,SUV,red,Ohio,Midwest,East North Central
+OK,"fort smith, AR",14900,2008.0,jeep,wrangler x,like new,6 cylinders,gas,107000.0,clean,automatic,4wd,full-size,SUV,black,Oklahoma,South,West South Central
+OR,medford-ashland,5000,2004.0,ford,f550 super duty,good,8 cylinders,diesel,245111.0,clean,automatic,rwd,full-size,truck,white,Oregon,West,Pacific
+PA,erie,3000,2008.0,chrysler,aspen,good,8 cylinders,gas,176000.0,clean,automatic,4wd,full-size,SUV,red,Pennsylvania,Northeast,Middle Atlantic
+RI,rhode island,6775,2006.0,toyota,avalon,excellent,6 cylinders,gas,97000.0,clean,automatic,4wd,full-size,sedan,white,Rhode Island,Northeast,New England
+SC,charleston,4000,2003.0,ford,ranger xlt,good,6 cylinders,gas,182000.0,clean,automatic,fwd,sub-compact,pickup,white,South Carolina,South,South Atlantic
+SD,northeast SD,22000,1976.0,datsun,280z,excellent,6 cylinders,gas,132000.0,clean,manual,rwd,compact,hatchback,orange,South Dakota,Midwest,West North Central
+TN,chattanooga,2800,2004.0,chevrolet,Scion xb,good,4 cylinders,gas,235318.0,clean,automatic,fwd,compact,hatchback,black,Tennessee,South,East South Central
+TX,el paso,0,2015.0,ram,3500,excellent,6 cylinders,diesel,198199.0,clean,automatic,rwd,full-size,truck,black,Texas,South,West South Central
+UT,logan,44999,2020.0,jeep,wrangler unlimited sahara,excellent,4 cylinders,gas,22219.0,clean,automatic,4wd,mid-size,SUV,red,Utah,West,Mountain
+VA,charlottesville,4000,1989.0,toyota,pickup,excellent,6 cylinders,gas,240000.0,clean,automatic,4wd,full-size,truck,grey,Virginia,South,South Atlantic
+VT,vermont,10300,2014.0,volkswagen,jetta,excellent,4 cylinders,gas,54187.0,clean,manual,fwd,full-size,sedan,brown,Vermont,Northeast,New England
+WA,bellingham,13995,1992.0,ram,b350,good,8 cylinders,gas,58000.0,clean,automatic,rwd,full-size,van,custom,Washington,West,Pacific
+WI,la crosse,500,2008.0,ram,1500 slt,good,6 cylinders,gas,214000.0,clean,manual,rwd,full-size,pickup,white,Wisconsin,Midwest,East North Central
+WV,charleston,32590,2015.0,mercedes-benz,gla-class gla 45,good,8 cylinders,gas,34811.0,clean,other,4wd,mid-size,other,black,West Virginia,South,South Atlantic
+WY,wyoming,10000,2001.0,toyota,4runner,excellent,6 cylinders,gas,150000.0,clean,automatic,4wd,full-size,pickup,black,Wyoming,West,Mountain
